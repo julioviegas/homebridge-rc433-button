@@ -1,0 +1,40 @@
+{
+  "name": "homebridge-rc433-button",
+  "version": "0.0.1",
+  "description": "A Homebridge plugin for a 433 MHz button, that receives data from a 433 MHz receiver connected to a Raspberry Pi GPIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julioviegas/homebridge-rc433-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/julioviegas/homebridge-rc433-button/issues"
+  },
+  "dependencies": {
+    "rpi-433": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=6.9.2",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "motion",
+    "sensor",
+    "433",
+    "MHz",
+    "receiver",
+    "raspberry",
+    "pi",
+    "siri",
+    "homebridge",
+    "homebridge-plugin",
+    "ios",
+    "homekit",
+    "gpio"
+  ],
+  "author": "Julio Viegas",
+  "license": "ISC"
+}
