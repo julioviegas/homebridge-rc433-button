@@ -14,15 +14,14 @@
     "url": "https://github.com/julioviegas/homebridge-rc433-button/issues"
   },
   "dependencies": {
-    "rpi-433": "git+https://github.com/gschmidt/rpi-433.git#master"
+    "rpi-433": "git+https://github.com/julioviegas/rpi-433.git#master"
   },
   "engines": {
     "node": ">=6.9.2",
     "homebridge": ">=0.2.0"
   },
   "keywords": [
-    "motion",
-    "sensor",
+    "button",
     "433",
     "MHz",
     "receiver",
