@@ -14,7 +14,7 @@
     "url": "https://github.com/julioviegas/homebridge-rc433-button/issues"
   },
   "dependencies": {
-    "rpi-433": "https://github.com/gschmidt/rpi-433#master"
+    "rpi-433": "git+https://github.com/gschmidt/rpi-433#master"
   },
   "engines": {
     "node": ">=6.9.2",
